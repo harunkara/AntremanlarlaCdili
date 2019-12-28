@@ -1,0 +1,4 @@
+﻿  soru12.c
+c:\users\harun\desktop\çalışmalar\soru12\soru12\soru12.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: see declaration of 'scanf'
+  soru12.vcxproj -> C:\Users\harun\Desktop\çalışmalar\soru12\x64\Debug\soru12.exe
